@@ -1,0 +1,4 @@
+# CodingStyle
+The user is given a text file with 2000/2001 English Primiership Table.
+The file includes 9 columns.
+The task is to find the right columns and determine the Team with the goal difference closest to zero.
